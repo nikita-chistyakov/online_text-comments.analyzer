@@ -1,0 +1,8 @@
+ tweepy 
+ pandas 
+ sqlalchemy 
+ psycopg2 
+ airflow 
+ dbt-core 
+ dbt-postgres 
+ transformers
