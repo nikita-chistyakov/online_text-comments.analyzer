@@ -1,0 +1,32 @@
+📦 analytics-engineering-project/
+│
+├── 📂 data/
+│   ├── 📂 raw/ 
+│   │   ├── 📄 dataset1.csv
+│   │   ├── 📄 dataset2.csv
+│   │
+│   ├── 📂 processed/
+│   │   ├── 📄 cleaned_data.csv
+│   │   ├── 📄 feature_engineered_data.csv
+│   │
+│   ├── 📂 external/
+│       ├── 📄 external_data_source.csv
+│
+├── 📂 config/
+│   ├── 📄 config.yaml
+│   ├── 📄 logging.conf
+│
+├── 📂 notebooks/
+│   ├── 📄 exploratory_analysis.ipynb
+│   ├── 📄 model_training.ipynb
+│   ├── 📄 results_visualization.ipynb
+│
+├── 📂 src/
+│   ├── 📄 __init__.py
+│   ├── 📄 data_preprocessing.py
+│   ├── 📄 feature_engineering.py
+│   ├── 📄 model.py
+│
+├── 📄 requirements.txt
+├── 📄 README.md
+└── 📄 .gitignore
